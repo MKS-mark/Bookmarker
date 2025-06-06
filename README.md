@@ -25,9 +25,6 @@ This project demonstrates basic **CRUD** operations:
 
 All operations are handled dynamically using JavaScript and persist through page refresh using the browser's `localStorage`.
 
-## 📷 Preview
-
-![Bookmarker Screenshot](screenshot.png) <!-- Replace with actual screenshot if available -->
 
 ## 🛠️ Technologies Used
 
