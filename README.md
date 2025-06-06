@@ -1,3 +1,5 @@
+# ⚠️ Important Notice
+It was built as part of my **Full Stack Web Development Diploma at [Route Academy]** — a leading software training center in Egypt.
 # Bookmarker
 
 A clean and functional web-based **Bookmark Manager** built with **HTML**, **CSS**, **JavaScript**, and **Bootstrap**. Easily add, validate, display, visit, and delete bookmarks — all stored in the browser's local storage.
