@@ -14,6 +14,21 @@ A clean and functional web-based **Bookmark Manager** built with **HTML**, **CSS
 * 🧼 Form reset and visual feedback for user input
 * 🎨 Styled with Bootstrap and custom CSS for a polished look
 
+## 🧮 CRUD Operations
+
+This project demonstrates basic **CRUD** operations:
+
+* **Create**: Add a new bookmark with name and URL
+* **Read**: Display all saved bookmarks in a table on page load
+* **Update**: While there's no dedicated update feature, validation gives real-time feedback, and entries can be re-added
+* **Delete**: Remove any bookmark from the list and from local storage
+
+All operations are handled dynamically using JavaScript and persist through page refresh using the browser's `localStorage`.
+
+## 📷 Preview
+
+![Bookmarker Screenshot](screenshot.png) <!-- Replace with actual screenshot if available -->
+
 ## 🛠️ Technologies Used
 
 * HTML5
@@ -58,9 +73,13 @@ Bookmarks are saved in `localStorage` as a JSON array:
 ]
 ```
 
+
 ## 📑 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is for educational purposes only.
+Feel free to explore, use parts of it, and reach out for collaboration or feedback!
+
+
 
 ---
 
